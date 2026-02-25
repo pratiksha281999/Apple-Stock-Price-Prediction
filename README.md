@@ -32,6 +32,7 @@ Multiple regression models were trained and evaluated, including Support Vector 
 - XGBoost: 0.89
 - SVM: 2.16
 - LightGBM: 2.27
+
 Among all models, the LSTM model significantly outperformed the others, achieving the lowest RMSE, demonstrating its superior ability to capture long-term dependencies and complex temporal patterns in stock price movements.
 The final model was used to generate predictions for the next 10 trading days. The predicted values closely matched the actual stock prices, validating the model’s effectiveness and generalization capability.
 This project highlights expertise in time-series forecasting, model benchmarking, deep learning architecture design, performance evaluation, and financial data analysis. It demonstrates the ability to compare multiple algorithms, select the optimal model based on quantitative metrics, and build a reliable predictive system using a structured machine learning workflow.
